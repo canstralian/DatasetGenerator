@@ -57,7 +57,7 @@ class DatasetGenerator:
             
         return [self.generate_single_entry() for _ in range(num_entries)]
 
-    def save_json(self, dataset: List[Dict[str, str]], filename: str = None) -> str:
+    def save_json(self, dataset: List[Dict[str, str]], filename: str | None = None) -> str:
         """
         Save the dataset in JSON format.
         
@@ -68,10 +68,10 @@ class DatasetGenerator:
         Returns:
             The filename used for saving
         """
-        if filename is None:
-            filename = f"python_prompts_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+        output_filename: str = (filename if filename is not None 
+                              else f"python_prompts_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
             
-        with open(filename, 'w', encoding='utf-8') as json_file:
+        with open(output_filename, 'w', encoding='utf-8') as json_file:
             json.dump({"prompts": dataset, 
                       "metadata": {
                           "generated_at": datetime.now().isoformat(),
@@ -79,9 +79,9 @@ class DatasetGenerator:
                       }}, 
                      json_file, 
                      indent=2)
-        return filename
+        return output_filename
 
-    def save_csv(self, dataset: List[Dict[str, str]], filename: str = None) -> str:
+    def save_csv(self, dataset: List[Dict[str, str]], filename: str | None = None) -> str:
         """
         Save the dataset in CSV format.
         
@@ -92,15 +92,15 @@ class DatasetGenerator:
         Returns:
             The filename used for saving
         """
-        if filename is None:
-            filename = f"python_prompts_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+        output_filename: str = (filename if filename is not None 
+                              else f"python_prompts_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv")
             
-        with open(filename, 'w', newline='', encoding='utf-8') as csv_file:
+        with open(output_filename, 'w', newline='', encoding='utf-8') as csv_file:
             fieldnames = ["prompt", "category", "description"]
             writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerows(dataset)
-        return filename
+        return output_filename
 
 def main():
     """Main function to demonstrate dataset generation and saving."""

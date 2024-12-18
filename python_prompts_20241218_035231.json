@@ -1,0 +1,508 @@
+{
+  "prompts": [
+    {
+      "prompt": "How do I handle exceptions in Python using try and except?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How do I solve the fibonacci sequence?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "How do I profile Python code performance?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "What are generator expressions in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How do I use defaultdict from collections?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "What is a decorator in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "What is the time complexity of common operations?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "How do I use a stack in Python?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "What is the datetime module used for?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "What is the difference between lists and tuples?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "How can I use a list comprehension to filter even numbers from a list?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "What is the difference between a tuple and a list in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How do I create a class in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How do I use the json module?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "How do I use the ternary operator in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How can I optimize a sorting algorithm?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "How can I measure the execution time of a Python function?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How can I sort a list in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "What are Python's built-in data types?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "What are context managers in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How do I use the json module?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "What is the purpose of logging in Python?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How do I read and write files in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How do I use defaultdict from collections?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "How do I implement method chaining?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How can I sort a list in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How do I work with strings in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How do I implement breadth-first search?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "How do I use if-else statements in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How do I implement a binary tree?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "What is test-driven development in Python?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How do I use the Python debugger (pdb)?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "What is the purpose of the collections module?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "What is the purpose of the itertools module?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "How do I solve the fibonacci sequence?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "How can I merge two dictionaries in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "What is a dictionary comprehension?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "What is the purpose of logging in Python?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How do I find the greatest common divisor (GCD) in Python?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "How do I implement a hash table?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "How do I use the ternary operator in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "What is the purpose of the collections module?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "What is the purpose of the collections module?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "What is test-driven development in Python?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How do I use regular expressions in Python?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "What is the purpose of logging in Python?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How do I handle exceptions in Python using try and except?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "What is the purpose of the collections module?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "What is the purpose of the collections module?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "How do I use regular expressions in Python?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "What is the difference between a tuple and a list in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How do I use a stack in Python?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "How do I create and use a set in Python?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "What is the difference between a tuple and a list in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How do I use *args and **kwargs?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How do I use numpy arrays?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "How can I use a list comprehension to filter even numbers from a list?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How do I use the ternary operator in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "What is the time complexity of common operations?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "What is dynamic programming in Python?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "What is dynamic programming in Python?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "What is the use of the map() function in Python?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "What are Python's built-in data structures?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "How do I use the Python debugger (pdb)?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How do I use the Python debugger (pdb)?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "What is the purpose of logging in Python?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How do I profile Python code performance?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How can I measure the execution time of a Python function?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How do I use defaultdict from collections?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "What is the purpose of logging in Python?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How do I find the greatest common divisor (GCD) in Python?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "How do I work with strings in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "What is the purpose of the collections module?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "How do I use the json module?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "What are Python's built-in data types?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "What is a decorator in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How can I implement a queue in Python?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "How do I use if-else statements in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "What is the datetime module used for?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "How do I implement a hash table?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "What are generator expressions in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How can I use the requests library in Python?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "How do I use if-else statements in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "What is the sqlite3 module used for?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "What are Python's built-in data types?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How can I optimize a sorting algorithm?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "What is a decorator in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How do I use the ternary operator in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How do I implement a hash table?",
+      "category": "Data Structures",
+      "description": "Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+    },
+    {
+      "prompt": "How can I measure the execution time of a Python function?",
+      "category": "Testing and Debugging",
+      "description": "Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+    },
+    {
+      "prompt": "How can I merge two dictionaries in Python?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How do I use the json module?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "How do I read and write files in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How do I implement breadth-first search?",
+      "category": "Algorithmic Thinking",
+      "description": "Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+    },
+    {
+      "prompt": "How do I use *args and **kwargs?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "How do I implement method chaining?",
+      "category": "Pythonic Logic",
+      "description": "Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+    },
+    {
+      "prompt": "What is the datetime module used for?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    },
+    {
+      "prompt": "How do I create a class in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "How do I create a class in Python?",
+      "category": "Python Basics",
+      "description": "Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+    },
+    {
+      "prompt": "What is the use of the map() function in Python?",
+      "category": "Python Libraries",
+      "description": "Usage and understanding of Python's standard library and popular third-party packages."
+    }
+  ],
+  "metadata": {
+    "generated_at": "2024-12-18T03:52:31.128728",
+    "entry_count": 100
+  }
+}

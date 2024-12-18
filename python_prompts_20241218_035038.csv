@@ -1,0 +1,101 @@
+prompt,category,description
+How do I use *args and **kwargs?,Pythonic Logic,"Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+What are Python's built-in data structures?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+What is a linked list in Python?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+What is dynamic programming in Python?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How can I implement a queue in Python?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How do I use the pandas library to manipulate data?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+What is a linked list in Python?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How do I use defaultdict from collections?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How can I sort a list in Python?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+What is the purpose of logging in Python?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+What is the purpose of logging in Python?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+How do I implement merge sort?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How can I test a Python function using unittest?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+What is the purpose of the itertools module?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How can I implement a queue in Python?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How can I sort a list in Python?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+What is the purpose of the __init__ method?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+What is mocking in Python testing?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+What is the time complexity of common operations?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I find the greatest common divisor (GCD) in Python?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How can I use a list comprehension to filter even numbers from a list?,Pythonic Logic,"Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+How do I implement breadth-first search?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I use regular expressions in Python?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How do I implement depth-first search?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I implement a binary search algorithm in Python?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I implement a binary tree?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How do I use if-else statements in Python?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+How do I use defaultdict from collections?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How do I use if-else statements in Python?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+What are Python's built-in data structures?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+What are assertion statements used for?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+What is the purpose of the collections module?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How do I handle exceptions in Python using try and except?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+How do I write a function that returns the factorial of a number?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I use if-else statements in Python?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+How do I use list slicing to reverse a list in Python?,Pythonic Logic,"Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+How do I debug a Python script?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+How can I use the requests library in Python?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How do I work with strings in Python?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+What are Python's built-in data types?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+How do I implement merge sort?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I use the json module?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+What are Python's built-in data structures?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How do I handle exceptions in Python using try and except?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+How can I test a Python function using unittest?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+How do I read and write files in Python?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+How do I debug a Python script?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+What is the purpose of logging in Python?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+How do I implement depth-first search?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I use the ternary operator in Python?,Pythonic Logic,"Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+How do I read and write files in Python?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+How do I implement breadth-first search?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I implement a binary search algorithm in Python?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I use a stack in Python?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+What is the time complexity of common operations?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+What are assertion statements used for?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+What is the purpose of the itertools module?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How do I implement method chaining?,Pythonic Logic,"Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+How do I handle exceptions in Python using try and except?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+How do I solve the fibonacci sequence?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How can I optimize a sorting algorithm?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I implement method chaining?,Pythonic Logic,"Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+How do I use regular expressions in Python?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How do I handle exceptions in Python using try and except?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+How do I implement a hash table?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How do I work with strings in Python?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+What is the purpose of the itertools module?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How do I create and use a set in Python?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How do I use pytest fixtures?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+What is a linked list in Python?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How can I test a Python function using unittest?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+How do I use the pandas library to manipulate data?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+What is the purpose of logging in Python?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+What are context managers in Python?,Pythonic Logic,"Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+How do I implement merge sort?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I implement a hash table?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How do I create and use a set in Python?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+What are Python's built-in data types?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+What is the sqlite3 module used for?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How do I profile Python code performance?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+What is the sqlite3 module used for?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How do I implement merge sort?,Algorithmic Thinking,"Problem-solving approaches, algorithm implementation, and optimization techniques in Python."
+How do I use the pandas library to manipulate data?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+What is the sqlite3 module used for?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How can I use a list comprehension to filter even numbers from a list?,Pythonic Logic,"Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+How do I profile Python code performance?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+What is the use of the map() function in Python?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How do I profile Python code performance?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+How do I use pytest fixtures?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+How do I use pytest fixtures?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+How do I use pytest fixtures?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+How do I create a class in Python?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+What is the difference between lists and tuples?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How do I use the pandas library to manipulate data?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+What is a dictionary comprehension?,Data Structures,"Implementation and usage of various data structures in Python, from built-in types to custom implementations."
+How do I implement method chaining?,Pythonic Logic,"Advanced Python programming practices focusing on idiomatic code, efficiency, and language-specific features."
+How do I write a for loop in Python?,Python Basics,"Fundamental Python concepts including basic syntax, data types, control structures, functions, and file operations."
+How do I use the json module?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
+How do I debug a Python script?,Testing and Debugging,"Methods and tools for testing Python code, debugging issues, and ensuring code quality."
+What is the use of the map() function in Python?,Python Libraries,Usage and understanding of Python's standard library and popular third-party packages.
