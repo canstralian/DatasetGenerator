@@ -102,9 +102,24 @@ class DatasetGenerator:
             writer.writerows(dataset)
         return output_filename
 
+def cleanup_old_files():
+    """Remove old dataset files to free up space."""
+    import os
+    import glob
+    
+    for pattern in ['python_prompts_*.json', 'python_prompts_*.csv']:
+        for f in glob.glob(pattern):
+            try:
+                os.remove(f)
+            except OSError:
+                pass
+
 def main():
     """Main function to demonstrate dataset generation and saving."""
     try:
+        # Cleanup old files
+        cleanup_old_files()
+        
         # Initialize generator
         generator = DatasetGenerator()
         
